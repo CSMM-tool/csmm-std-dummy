@@ -1,0 +1,16 @@
+{
+    "name": "csmm-std-dummy",
+    "version": "main",
+    "url": "https://github.com/CSMM-tool/csmm-std-dummy",
+    "define": [
+        "USE_CSMM-STD-DUMMY"
+    ],
+    "flags": [],
+    "src": [
+        "src/main.c"
+    ],
+    "include": [
+        "src/main.h"
+    ],
+    "build": true
+}
