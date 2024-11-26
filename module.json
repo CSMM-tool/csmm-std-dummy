@@ -3,7 +3,7 @@
     "version": "main",
     "url": "https://github.com/CSMM-tool/csmm-std-dummy",
     "define": [
-        "USE_CSMM-STD-DUMMY"
+        "USE_CSMM_STD_DUMMY"
     ],
     "flags": [],
     "src": [
