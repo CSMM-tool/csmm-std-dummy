@@ -12,5 +12,6 @@
     "include": [
         "src/main.h"
     ],
+    "dependencies": [],
     "build": true
 }
