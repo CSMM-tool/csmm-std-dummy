@@ -1,11 +1,33 @@
 {
     "name": "csmm-std-dummy",
+    "description": "a dummy module for use with CSMM, use it as a base to make new packages",
     "version": "main",
-    "url": "https://github.com/CSMM-tool/csmm-std-dummy",
+    "homepage": "",
+    "repository": "https://github.com/CSMM-tool/csmm-std-dummy",
+    "author": "CSMM-tool"
+    "contributors": [
+        {
+            "name": "david_ca6", 
+            "link": [
+                "https://github.com/david-ca6",
+                "https://x.com/david_ca6",
+                "https://ca6.dev"
+            ]
+        }
+    ],
+    "license": "MIT",
+    "keywords": [
+        "dummy",
+        "example",
+        "demo"
+    ],
+    "test": "",
     "define": [
         "USE_CSMM_STD_DUMMY"
     ],
-    "flags": [],
+    "flags": [
+        
+    ],
     "src": [
         "src/main.c"
     ],
